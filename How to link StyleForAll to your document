@@ -1,0 +1,9 @@
+//How to link StyleForAll to your document
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="Ludvik's scripts.js"></script>
+        <style>
+        @import url(../StyleForAll.css); /*Copy this*/
+        </style>
+    </head>
